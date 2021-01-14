@@ -8,7 +8,12 @@
 	
 	有任何疑问请联系作者微信    Lanyu4567  记得备注接口解析
 
-**请求URL：** 
+**测试请求URL(仅供测试)：** 
+
+https://analyse.layzz.cn/lyz/getAnalyse?token=uuic-qackd-fga-test&link=https://v.douyin.com/Jtuu894/
+
+**请求URL：**
+- GET
 - ` https://analyse.layzz.cn/lyz/platAnalyse/`
   
 **请求方式：**
