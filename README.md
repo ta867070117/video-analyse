@@ -12,10 +12,10 @@
 
 **测试请求URL：** 
 
-https://analyse.layzz.cn/lyz/getAnalyse?token=uuic-qackd-fga-test&link=https://v.douyin.com/Jtuu894/
+https://proxy.layzz.cn/lyz/getAnalyse?token=uuic-qackd-fga-test&link=https://v.douyin.com/Jtuu894/
 
 **POST请求URL：**
-- ` https://analyse.layzz.cn/lyz/platAnalyse/`
+- ` https://proxy.layzz.cn/lyz/platAnalyse/`
   
 **请求方式：**
 - POST 
