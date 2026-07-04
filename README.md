@@ -153,7 +153,7 @@ application/x-www-form-urlencoded
 | data.pics | array | 图集图片列表（type=2时有效） |
 | data.music | string/null | 背景音乐地址 |
 | data.size | number | 视频大小（字节），-4表示未知 |
-| data.videos | array | 视频下载地址列表（多个清晰度） |
+| data.videos | array | 视频下载地址列表（动图） |
 
 ### 返回示例
 
